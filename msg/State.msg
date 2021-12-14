@@ -7,10 +7,10 @@ int32 time_from_start
 geometry_msgs/Point position
 
 # 3D velocity
-geometry_msgs/Point velocity
+geometry_msgs/Vector3 velocity
 
 # 3D acceleration
-geometry_msgs/Point acceleration
+geometry_msgs/Vector3 acceleration
 
 # Yaw angle in radians
 float64 yaw
