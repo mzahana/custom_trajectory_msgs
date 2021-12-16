@@ -1,7 +1,7 @@
 Header header
 
 # State trajectory, a list of time stamped states
-trajectory_msgs/State[] states
+custom_trajectory_msgs/State[] states
 
 # Maximum velocity along the entire trajectory, m/s
 float64 max_velocity
