@@ -3,6 +3,9 @@
 # Time from start in seconds
 int32 time_from_start
 
+# ROS time
+time ros_time
+
 # 3D position
 geometry_msgs/Point position
 
