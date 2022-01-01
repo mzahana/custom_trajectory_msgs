@@ -17,3 +17,9 @@ geometry_msgs/Vector3 acceleration
 
 # Yaw angle in radians
 float64 yaw
+
+# rad/s
+float64 yaw_speed
+
+# rad/s/s
+float64 yaw_acceleration
