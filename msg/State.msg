@@ -1,5 +1,7 @@
 # Vehicle translational states in 3D
 
+Header header
+
 # Time from start in seconds
 int32 time_from_start
 
