@@ -1,4 +1,4 @@
-Header header
+std_msgs/Header header
 
 # State trajectory, a list of time stamped states
 custom_trajectory_msgs/State[] states

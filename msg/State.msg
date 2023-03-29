@@ -1,12 +1,12 @@
-# Vehicle translational states in 3D
+# Vehicle translational and yaw states in 3D
 
-Header header
+std_msgs/Header header
 
 # Time from start in seconds
 int32 time_from_start
 
 # ROS time
-time ros_time
+builtin_interfaces/Time ros_time
 
 # 3D position
 geometry_msgs/Point position
