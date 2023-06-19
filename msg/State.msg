@@ -3,7 +3,7 @@
 std_msgs/Header header
 
 # Time from start in seconds
-int32 time_from_start
+float64 time_from_start
 
 # ROS time
 builtin_interfaces/Time ros_time
